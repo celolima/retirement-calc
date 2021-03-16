@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retirement Calc</string>
+    <string name="main_description">Fill to calculate when you are gonna retire</string>
+    <string name="gender_spinner">Gender</string>
+    <string name="age_text">Age</string>
+    <string name="calc_button">Calculate</string>
+</resources>
